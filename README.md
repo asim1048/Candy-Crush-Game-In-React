@@ -1,3 +1,13 @@
+<h1 align="center">Instagram Clone App</h1>
+
+![CandyCrush](https://user-images.githubusercontent.com/68283718/187655854-6b78ef89-61c6-45ea-ba9f-133092c04f7d.PNG)
+
+
+
+https://user-images.githubusercontent.com/68283718/187655919-cd87f785-13ac-439a-a497-620a97abe816.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
