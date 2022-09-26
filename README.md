@@ -1,4 +1,4 @@
-<h1 align="center">Instagram Clone App</h1>
+<h1 align="center">Candy Crush in React</h1>
 
 ![CandyCrush](https://user-images.githubusercontent.com/68283718/187655854-6b78ef89-61c6-45ea-ba9f-133092c04f7d.PNG)
 
